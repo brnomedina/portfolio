@@ -184,7 +184,7 @@ html {
       animation:Gradient 5s ease infinite
   }
   
-  #light .btn-gradient.linkedin:hover
+  #light .btn-gradient.behance:hover
   {
       box-shadow:0 5px 8px rgba(3,169,244,0.25);
       background:#0288D1;
